@@ -1,8 +1,3 @@
-No problem—here’s your **README.md** revised for the separate SDM repo (`ask-sdm-chatbot`).
-Everything is now SDM-specific, points to its own script, and the instructions/branding are tailored for SDM and Napco.
-
----
-
 # Ask SDM Chatbot Embed
 
 This repository contains the JavaScript file used to embed the **Ask SDM Chatbot** on external pages. The script dynamically injects a branded chatbot UI (HTML + CSS + JS) after a short delay, with zero impact to site performance or analytics tracking (e.g., Olytics).
@@ -63,7 +58,3 @@ Feel free to fork or open an issue for enhancements.
 ## 📄 License
 
 MIT License © [SubscriptionArchitect](https://github.com/SubscriptionArchitect)
-
----
-
-Let me know if you want a version that includes more sponsor options, additional instructions, or anything else!
